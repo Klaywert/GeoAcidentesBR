@@ -1,0 +1,18 @@
+<layer>
+  <name>RJ_Mesorregioes_2020</name>
+  <id>LayerInfoImpl-8298579:1796907fec4:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--61c15290:1796c44e6bb:-7fe8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-8298579:1796907fec4:-7ffd</id>
+  </resource>
+  <opaque>true</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-14 04:38:44.233 UTC</dateCreated>
+  <dateModified>2021-05-15 01:46:20.591 UTC</dateModified>
+</layer>

@@ -1,0 +1,24 @@
+<layer>
+  <name>Acidentes_automovel</name>
+  <id>LayerInfoImpl-8298579:1796907fec4:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--61c15290:1796c44e6bb:-7fff</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--61c15290:1796c44e6bb:-7fff</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-8298579:1796907fec4:-7ff7</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-14 05:09:05.831 UTC</dateCreated>
+  <dateModified>2021-05-19 04:39:45.239 UTC</dateModified>
+</layer>

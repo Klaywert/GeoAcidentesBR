@@ -1,0 +1,17 @@
+<layer>
+  <name>rodovias_rj</name>
+  <id>LayerInfoImpl-8298579:1796907fec4:-7fec</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--61c15290:1796c44e6bb:-7fed</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-8298579:1796907fec4:-7fed</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-14 05:12:11.146 UTC</dateCreated>
+  <dateModified>2021-05-15 01:47:46.592 UTC</dateModified>
+</layer>

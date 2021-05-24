@@ -1,0 +1,17 @@
+<layer>
+  <name>Principais Rios - RJ</name>
+  <id>LayerInfoImpl--61c15290:1796c44e6bb:-7faa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--61c15290:1796c44e6bb:-7fa7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--61c15290:1796c44e6bb:-7fab</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-15 01:34:25.36 UTC</dateCreated>
+  <dateModified>2021-05-15 01:46:03.926 UTC</dateModified>
+</layer>

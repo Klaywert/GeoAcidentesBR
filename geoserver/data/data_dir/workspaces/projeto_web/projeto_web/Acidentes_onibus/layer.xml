@@ -1,0 +1,23 @@
+<layer>
+  <name>Acidentes_onibus</name>
+  <id>LayerInfoImpl-8298579:1796907fec4:-7ff0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--61c15290:1796c44e6bb:-7ff4</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--61c15290:1796c44e6bb:-7ff4</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-8298579:1796907fec4:-7ff1</id>
+  </resource>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-14 05:11:02.220 UTC</dateCreated>
+  <dateModified>2021-05-15 01:45:40.139 UTC</dateModified>
+</layer>
